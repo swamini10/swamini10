@@ -50,3 +50,30 @@ stack:
 ```
 
 <br clear="right"/>
+
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  STREAK STATS                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+## 🔥 Daily Streak & Max Streak
+
+<img src="https://streak-stats.demolab.com?user=swamini10&theme=dark" width="600"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  ACTIVITY GRAPH                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+## 📈 Contribution Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swamini10&bg_color=0d0d0d&color=0ff0fc&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&custom_title=swamini%27s%20Contribution%20Graph" alt="Contribution Graph" width="100%"/>
+
+</div>
