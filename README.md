@@ -77,3 +77,23 @@ stack:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=swamini10&bg_color=0d0d0d&color=0ff0fc&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&custom_title=swamini%27s%20Contribution%20Graph" alt="Contribution Graph" width="100%"/>
 
 </div>
+
+
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  SNAKE ANIMATION                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swamini10/swamini10/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"  srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/swamini10/swamini10/output/github-snake-dark.svg"/>
+</picture>
+
+
+</div>
