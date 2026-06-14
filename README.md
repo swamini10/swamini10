@@ -56,7 +56,13 @@ stack:
 
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=swamini10&show_icons=true&theme=radical" />
+</p>
+
+---
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  STREAK STATS                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -65,7 +71,6 @@ stack:
 ## 🔥 Daily Streak & Max Streak
 
 <img src="https://streak-stats.demolab.com?user=swamini10&theme=dark" width="600"/>
-<img src="https://github-readme-stats.vercel.app/api?username=swamini10&show_icons=true&theme=radical" />
 
 </div>
 
